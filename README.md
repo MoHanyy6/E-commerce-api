@@ -1,5 +1,6 @@
 # E-commerce-api
 A FastAPI backend for managing users, products, payments, and orders. Sends order details and verification emails integrates with Gmail, supports admin roles, and demonstrates real-world API, database, and email automation in a clean, easy-to-understand structure.
+🎥 [Watch Demo Video](🎥 [Watch Demo Video](https://drive.google.com/file/d/1yIiYEM7Ac3JsH3Ktt3CaIVlG9smWVt5D/view?usp=sharing))
 
 
 ## Features
