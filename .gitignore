@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# Alembic versions (optional if you don't want to push migrations)
+alembic/versions/
